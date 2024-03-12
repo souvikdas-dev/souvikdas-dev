@@ -2,7 +2,7 @@
 
 <!-- <h3 style="border-left: 3px solid gray; padding-left: 10px;"> Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer.... </h3> -->
 
-<!-- **SouvikDas-git/SouvikDas-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **souvikdas-dev/souvikdas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
@@ -127,5 +127,5 @@ const Souvik = {
 
 <br>
 
-[![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=SouvikDas-git&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=F28C0F&text_color=969696&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouvikDas-git&layout=compact&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=souvikdas-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=F28C0F&text_color=969696&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikdas-dev&layout=compact&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
