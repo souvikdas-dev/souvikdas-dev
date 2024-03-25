@@ -116,12 +116,11 @@ const Souvik = {
 
 <br>
 <br>
+<!-- <br/> -->
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/drqq0s1nekazb03qwe9klpi0f)
-
-<!-- <br/> -->
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/user/drqq0s1nekazb03qwe9klpi0f](https://open.spotify.com/user/drqq0s1nekazb03qwe9klpi0f?si=abaed5fb4c1848bb))
 
 ---
 
