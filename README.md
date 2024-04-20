@@ -10,9 +10,9 @@ Here are some ideas to get you started: -->
 <!-- ![Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer...](cover.svg) -->
 
 
-- 🔭 I’m currently working on ... MVC (Model-View-Controller)
-- 🌱 I’m currently learning ... laravel
-- 🤔 I’m Improving my ... 🟡 JavaScript Skills
+- 🔭 I’m currently working on ... Python
+- 🌱 I’m currently learning ... FastAPI
+- 🤔 I’m Improving my ... 🟡 Python Skills
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
