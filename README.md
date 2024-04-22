@@ -129,3 +129,8 @@ const Souvik = {
 ![souvikdas-dev's Stats](https://github-readme-stats.vercel.app/api?username=souvikdas-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![souvikdas-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=souvikdas-dev&theme=vue-dark&hide_border=true)
 ![souvikdas-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikdas-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/souvikdasdt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="souvikdasdt" /></a></p><br><be>
+<br><br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikdas-dev" alt="souvikdas-dev" /></a> </p>
