@@ -126,5 +126,6 @@ const Souvik = {
 
 <br>
 
-[![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=souvikdas-dev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=F28C0F&text_color=969696&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikdas-dev&layout=compact&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+![souvikdas-dev's Stats](https://github-readme-stats.vercel.app/api?username=souvikdas-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![souvikdas-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=souvikdas-dev&theme=vue-dark&hide_border=true)
+![souvikdas-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikdas-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
